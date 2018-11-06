@@ -592,8 +592,8 @@ pre code {
   display: flex;
   -ms-flex-wrap: wrap;
   flex-wrap: wrap;
-  margin-right: -15px;
-  margin-left: -15px;
+  margin-right: 0px;
+  margin-left: 0px;
 }
 
 .no-gutters {
@@ -5812,11 +5812,11 @@ button.close {
   position: relative;
 }
 
-.carousel-inner {
+/*.carousel-inner {
   position: relative;
   width: 100%;
   overflow: hidden;
-}
+}*/
 
 .carousel-item {
   position: relative;

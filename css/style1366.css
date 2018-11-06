@@ -1,0 +1,43 @@
+header{
+	position:relative;
+	padding:0px;
+	margin:0px;
+	top:5px;
+}
+
+img{
+	height:450px;
+	width:100%;
+}
+
+footer{
+	position:absolute;
+	bottom:0px;
+	left:46%;
+
+}
+.carousel-inner {
+  position: relative;
+  width: 100%;
+  overflow: hidden;
+  top:15px;
+}
+#first{
+	padding:7px;
+	text-align:center;
+}
+
+#second{
+	position: relative;
+	left:200px;
+	padding:25px;
+}
+
+h3{
+	color:#007bff;
+	font-size:50px;
+}
+
+a{
+	font-size:15px;
+}
